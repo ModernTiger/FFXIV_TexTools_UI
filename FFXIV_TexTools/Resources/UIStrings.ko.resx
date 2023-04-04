@@ -421,7 +421,7 @@
     <value>모드 아이템</value>
   </data>
   <data name="Model_Inspector" xml:space="preserve">
-    <value>모델 인스검사기</value>
+    <value>모델 검사기</value>
   </data>
   <data name="Model_MetaData" xml:space="preserve">
     <value>모델 메타데이터</value>
